@@ -1,0 +1,10 @@
+in :: 3 
+in :: 3 
+in :: 3 
+dolor :: 2 
+ut :: 2 
+dolore :: 2 
+ut :: 2 
+dolor :: 2 
+dolore :: 2 
+Lorem :: 1 
